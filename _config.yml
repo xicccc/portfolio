@@ -1,10 +1,8 @@
 title: Xi Chen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst 
-  <br><br>
-  Loving Data and Storytelling
-  <br><br>
+  Data Analyst <br>
+  Loving Data and Storytelling <br>
   <a href="https://www.linkedin.com/in/xichencreutzfeldt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
